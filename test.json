@@ -1,8 +1,8 @@
 {
-    "url": "https://JunMing27.github.io/swaggerxss/test.yaml",
+    "url": "https://raw.githubusercontent.com/JunMing27/swaggerxss/refs/heads/main/test.yaml",
     "urls": [
         {
-            "url": "https://JunMing27.github.io/swaggerxss/test.yaml",
+            "url": "https://raw.githubusercontent.com/JunMing27/swaggerxss/refs/heads/main/test.yaml",
             "name": "Foo"
         }
     ]
